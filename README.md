@@ -1,10 +1,8 @@
-![Screenshot (31)](https://github.com/Haise-Yadav/Luffy.github.io/assets/119958602/eca493df-b60b-4c82-ae16-92166ab83b4d)![Screenshot (31)](https://github.com/Haise-Yadav/Luffy.github.io/assets/119958602/75899b4c-58c8-4066-af09-d3a0fec812e2)
-Absolutely! Here's an extended version of the README template for an anime streaming frontend project with React and CSS:
 
 Introduction to the Anime Streaming Frontend
 Welcome to the Anime Streaming Frontend project! Immerse yourself in a world of captivating anime titles with our cutting-edge streaming platform. This frontend is meticulously crafted using React and CSS, offering not only a diverse library of anime but also a visually stunning and interactive experience. Elevate your anime-watching journey by exploring our curated collection and enjoying the convenience of playing trailers directly on the landing page.
 
-![Screenshot (31)](https://github.com/Haise-Yadav/Luffy.github.io/assets/119958602/e0011eab-e0f8-43ab-8e8b-8f422de74a94)
+
 
 
 Anime Streaming Frontend
