@@ -1,14 +1,17 @@
-
 Introduction to the Anime Streaming Frontend
+
 Welcome to the Anime Streaming Frontend project! Immerse yourself in a world of captivating anime titles with our cutting-edge streaming platform. This frontend is meticulously crafted using React and CSS, offering not only a diverse library of anime but also a visually stunning and interactive experience. Elevate your anime-watching journey by exploring our curated collection and enjoying the convenience of playing trailers directly on the landing page.
 
 
+![Screenshot (32)](https://github.com/Haise-Yadav/Luffy.github.io/assets/119958602/020f1e89-3dc9-4a41-9e14-489737488f99)
 
 
 Anime Streaming Frontend
+
 Discover the magic of anime with our feature-rich streaming platform. From classic masterpieces to the latest releases, our frontend provides a seamless and enjoyable experience for anime enthusiasts. The carefully designed landing page allows users to delve into the world of anime through high-quality trailers and an easy-to-navigate interface.
 
 Features
+
 Anime Library
 Explore a vast and diverse library of anime titles, categorized for all tastes and preferences. Whether you're into action, romance, fantasy, or slice of life, our platform has something for everyone.
 
